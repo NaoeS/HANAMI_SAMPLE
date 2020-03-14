@@ -1,0 +1,2 @@
+module Myapp
+end
